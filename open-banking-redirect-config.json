@@ -1,0 +1,1 @@
+{"alg":"PS256","kid":"signingKey1","private-key":"","public-key":"","client-id":"dc-clientID","redirect-url":"https://tpp.com/callback","scope":"openid accounts payments fundsconfirmations","response-type":"code id_token","audience":"https://authentication-portal.bank.com","consent-id":"currentConsentID","chbox-use-consent-id":true,"state":"","nonce":"","redirect-header":[]}
